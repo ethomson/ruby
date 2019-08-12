@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/master?svg=true)](https://ci.appveyor.com/project/ruby/ruby/branch/master)
 [![Build Status](https://dev.azure.com/rubylang/ruby/_apis/build/status/ruby.ruby?branchName=master)](https://dev.azure.com/rubylang/ruby/_build/latest?definitionId=3&branchName=master)
 
-# What's Ruby
+# What's Ruby?
 
 Ruby is an interpreted object-oriented programming language often
 used for web development. It also offers many scripting features
